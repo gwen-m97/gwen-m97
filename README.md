@@ -5,7 +5,7 @@
 
 Experienced Data Analyst, I have helped large companies analyze their competitive environment and make informed strategic decisions. Today, I combine this business expertise with new skills in Data Science & AI.
 
-**My goal: helping you make your data speak!**
+🎯 **My goal: helping you make your data speak!**
 
 
 ---
