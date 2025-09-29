@@ -1,3 +1,6 @@
+![Ma vidéo](assets/couv-linkedin.gif)
+
+
 # 👋 Hi, I'm Gwenaëlle (but everybody calls me Gwen)
 
 Experienced Data Analyst, I have helped large companies analyze their competitive environment and make informed strategic decisions. Today, I combine this business expertise with new skills in Data Science & AI.
