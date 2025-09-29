@@ -36,7 +36,7 @@ Experienced Data Analyst, I have helped large companies analyze their competitiv
 ---
 
 ## 📫 Contact Me
-- LinkedIn: [My Profile](www.linkedin.com/in/gwenaëlle-mustière)
+- LinkedIn: [My Profile](https://www.linkedin.com/in/gwena%C3%ABlle-musti%C3%A8re/)
 - Email: gwen.mustiere@gmail.com
 
 ---
